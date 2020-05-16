@@ -4,7 +4,7 @@ First of all git clone this repository by folllowing cmd.
 
 $ sudo apt-get update \
 $ sudo apt-get install git-core \
-$ git clone https://github.com/SachinVekariya/Bot_Setup.git \
+$ git clone https://github.com/SachinVekariya/Bot_Setup.git 
 
 Note : If you are working with Raspberry Pi, then follow the documention given above for necessary setup.
 
@@ -22,8 +22,8 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 
 ### Step 2 -->> Create workspace
 
-$ cd Bot_Setup
-$ bash workspace_setup.bash
+$ cd Bot_Setup \
+$ bash workspace_setup.bash 
 
 It will create workspace named catkin_ws.
 
