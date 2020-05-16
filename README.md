@@ -66,6 +66,3 @@ $ cd ~/catkin_ws/src/driving/src
 $ python driving_control.py     # To map the buttons, To see button configuration follow the picture given above.
 $ python arduino_driving.py     # To send data on the arduino serial.
 
-
-
-
