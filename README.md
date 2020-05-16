@@ -51,8 +51,9 @@ $ bash packages.sh
 If you not installed Arduino IDE in your device, then install form Ubuntu store by searching "Arduino IDE".
 Conect arduino to your device.
 
-Provide the permission to arduino. \
-$ sudo chmod 666 /dev/ttyACM \    
+Provide the permission to arduino.
+
+$ sudo chmod 666 /dev/ttyACM   
 press Tab key two times to autocomplete and you will get port name similar "ACM0"
 
 Open the Arduino IDE and select the Port and Board in Tools in Menubar. \
