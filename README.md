@@ -4,7 +4,7 @@ First of all git clone this repository by folllowing cmd.
 
 $ sudo apt-get update \
 $ sudo apt-get install git-core \
-$ git clone https://github.com/SachinVekariya/Covid-19-Bot.git 
+$ git clone https://github.com/SachinVekariya/Covid-19-Robot.git 
 
 Note : If you are working with Raspberry Pi, then follow the documention given above for necessary setup.
 
